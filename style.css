@@ -219,6 +219,7 @@ header.sticky .logo{
 .article .text{
     position: relative;
     width: 60%;
+    text-indent:2em;
     display: block;
     margin-bottom: 80px;
 }
