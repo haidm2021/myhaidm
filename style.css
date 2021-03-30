@@ -117,20 +117,20 @@
 
 }
 body{
-    min-height: 1000px;
+    min-height: 45vh;
 
 }
 .banner{
     position: relative;
     width: 100%;
-    min-height: 35vh;
+    min-height: 45vh;
     background: url(./bg.png);
     background-size: cover;
 }
 .banner .mask{
     position: relative;
     width: 100%;
-    min-height: 35vh;
+    min-height: 45vh;
     display: flex;
     justify-content: center;
     align-items: center;
