@@ -192,7 +192,7 @@ header.sticky .logo{
 }
 .workshop a{
     text-decoration: none;
-    font-size: 20px;
+    font-size: 15px;
     color: #222;
     text-transform: uppercase;
 }
@@ -204,7 +204,7 @@ header.sticky .logo{
 }
 .workshop .keyword{
     position: relative;
-    width: 70%;
+    width: 100%;
     display: flex;
     border-bottom: solid 4px #999;
 }
