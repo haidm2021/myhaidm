@@ -188,8 +188,8 @@ header.sticky .logo{
     list-style: none;
     width: 350px;
     padding: 10px 30px;
-    float: right;
-    margin-left: 60px;
+    float: left;
+    margin-left: 100px;
 }
 .workshop a{
     text-decoration: none;
