@@ -186,18 +186,18 @@ header.sticky .logo{
 }
 .workshop li{
     list-style: none;
-    padding: 20px 40px;
+    padding: 20px 30px;
     float: left;
-    margin-left: 30px;
+    margin-left: 20px;
 }
 .workshop a{
     text-decoration: none;
-    font-size: 15px;
+    font-size: 10px;
     color: #222;
     text-transform: uppercase;
 }
 .workshop a p{
-    padding: 10px 40px;
+    padding: 10px 20px;
 }
 .workshop a p:hover{
     background-color: rgba(0, 0, 0, 0.1);
@@ -206,7 +206,7 @@ header.sticky .logo{
     position: relative;
     width: 100%;
     display: flex;
-    border-bottom: solid 4px #999;
+    border-bottom: solid 2px #999;
 }
 .article{
     min-height: 70vh;
