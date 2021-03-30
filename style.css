@@ -124,7 +124,7 @@ body{
     position: relative;
     width: 100%;
     min-height: 35vh;
-    background: url(./bg.jpg);
+    background: url(./bg.png);
     background-size: cover;
 }
 .banner .mask{
