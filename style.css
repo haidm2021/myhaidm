@@ -187,7 +187,7 @@ header.sticky .logo{
 .workshop li{
     list-style: none;
     padding: 20px 30px;
-    float: left;
+    float: center;
     margin-left: 20px;
 }
 .workshop a{
