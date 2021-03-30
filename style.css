@@ -186,10 +186,10 @@ header.sticky .logo{
 }
 .workshop li{
     list-style: none;
-    width: 290px;
+    width: 280px;
     padding: 10px 10px;
     float: left;
-    margin-left: 110px;
+    margin-left: 120px;
 }
 .workshop a{
     font-weight: bold;
